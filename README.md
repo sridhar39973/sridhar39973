@@ -1,4 +1,4 @@
-<img src="https://github.com/sridhar39973/CoverPic/blob/0265aabea102dbb460a405112461c39c7579fb4a/github-header-image%20(4).png" alt="i">
+<img src="https://github.com/sridhar39973/CoverPic/blob/0265aabea102dbb460a405112461c39c7579fb4a/github-header-image%20(4).png" alt="i" align="center">
 <h1 align="center">Hi 👋, I'm Sridhar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
