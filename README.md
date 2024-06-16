@@ -11,7 +11,7 @@
 
 - 💬 Proficient in **Java, Spring Boot, HTML5, CSS3, JavaScript, Node.js, Express.js, MySQL, PostgreSql**
 
-- 📝 I regularly write articles on [[https://sridharblogs.hashnode.dev/](https://hashnode.com/@SRIDHAR15)](https://hashnode.com/@SRIDHAR15)
+- 📝 I regularly write articles on (https://hashnode.com/@SRIDHAR15)
 
 - 📫 How to reach me **sridharsridharkumar123@gmail.com**
 
