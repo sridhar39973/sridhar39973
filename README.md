@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sridharsridharkumar123@gmail.com**
 
-- 📄 Please review my resume for opportunities. [https://drive.google.com/file/d/16WTTba86LeUrbHr2DJWni_YXnWMSVD4P/view?usp=drivesdk](https://drive.google.com/file/d/15hWfyVzqFdzEmhbupTZWbY93calhUmLU/view?usp=drivesdk))
+- 📄 Please review my resume for opportunities. [https://drive.google.com/file/d/16WTTba86LeUrbHr2DJWni_YXnWMSVD4P/view?usp=drivesdk](https://drive.google.com/file/d/15hWfyVzqFdzEmhbupTZWbY93calhUmLU/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
