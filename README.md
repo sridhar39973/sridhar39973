@@ -1,6 +1,6 @@
 <img src="https://github.com/sridhar39973/CoverPic/blob/0265aabea102dbb460a405112461c39c7579fb4a/github-header-image%20(4).png" alt="i" align="center">
 <h1 align="center">Hi 👋, I'm Sridhar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sridhar39973&label=Profile%20views&color=0e75b6&style=flat" alt="sridhar39973" /> </p>
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://sridharblogs.hashnode.dev/](https://sridharblogs.hashnode.dev/)
 
-- 📫 How to reach me **sridharsridharkumar123@gmail.com**
+- 📫 How to reach me **k.sridhar.dev@gmail.com**
 
 - 📄 Please review my resume for opportunities. [https://drive.google.com/file/d/16WTTba86LeUrbHr2DJWni_YXnWMSVD4P/view?usp=drivesdk](https://drive.google.com/file/d/15hWfyVzqFdzEmhbupTZWbY93calhUmLU/view?usp=drivesdk)
 
